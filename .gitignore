@@ -1,0 +1,38 @@
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+
+# Ignore environment variables file (your DB credentials)
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyCharm project files
+.idea/
+
+# VSCode project files
+.vscode/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Other common OS files
+.DS_Store
+
+finalproject/
+finalproject/**
